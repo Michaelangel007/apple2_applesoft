@@ -26,7 +26,8 @@ html+="</PRE>"
 puts html
 ```
 
-Unfortunately, his [consolidated and cross-linked version.](http://jamtronix.com/files/applesoft.html) is no longer available.
-Thankfully, The WayBackMachine has a [mirror copy](https://web.archive.org/web/20131106182736/http://jamtronix.com/files/applesoft.html).
+Unfortunately, his [consolidated and cross-linked version](http://jamtronix.com/files/applesoft.html) is no longer available. :-/
 
-But in case that goes away here is a git repo [mirror](https://htmlpreview.github.io/?https://github.com/Michaelangel007/apple2_applesoft/blob/master/applesoft.html)
+Thankfully, The Wayback Machine has a [mirror copy](https://web.archive.org/web/20131106182736/http://jamtronix.com/files/applesoft.html).
+
+But in case that goes away here is a git repo of [HTML version](https://htmlpreview.github.io/?https://github.com/Michaelangel007/apple2_applesoft/blob/master/applesoft.html).
